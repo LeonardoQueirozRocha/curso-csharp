@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidacaoIntervaloNumerico", "ValidacaoIntervaloNumerico\ValidacaoIntervaloNumerico.csproj", "{22C98860-80B0-400A-BF91-C5DA48C153C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C98860-80B0-400A-BF91-C5DA48C153C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C98860-80B0-400A-BF91-C5DA48C153C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C98860-80B0-400A-BF91-C5DA48C153C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C98860-80B0-400A-BF91-C5DA48C153C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E3DC9F0-4312-4AC6-84A9-6EDC62580FFB}
+	EndGlobalSection
+EndGlobal

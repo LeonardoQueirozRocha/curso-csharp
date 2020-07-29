@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidacaoNumeroNegativo", "ValidacaoNumeroNegativo\ValidacaoNumeroNegativo.csproj", "{ACF97461-52CE-4E0C-B271-EFB4EDF37BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF97461-52CE-4E0C-B271-EFB4EDF37BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF97461-52CE-4E0C-B271-EFB4EDF37BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF97461-52CE-4E0C-B271-EFB4EDF37BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF97461-52CE-4E0C-B271-EFB4EDF37BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D060BA96-8137-4968-BB9F-2DA74738CF86}
+	EndGlobalSection
+EndGlobal
