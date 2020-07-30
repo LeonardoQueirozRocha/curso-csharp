@@ -41,6 +41,7 @@ namespace AberturaDeConta
             Console.Write("\nEntre um valor para saque: ");
             quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             contaBancaria.Saque(quantia);
+            
             Console.WriteLine("Dados da conta atualizados: " + contaBancaria);
         }
     }
