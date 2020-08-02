@@ -6,7 +6,9 @@ namespace NewProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Enter a value: ");
+            int n = int.Parse(Console.ReadLine());
+            System.Console.WriteLine(n);
             
         }
     }
